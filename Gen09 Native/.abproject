@@ -1,11 +1,11 @@
 {
   "ProjectName": "Gen09 Native",
-  "ProjectGuid": "e55b3136-153a-41ce-b42f-4c9518f8341e",
+  "ProjectGuid": "da2b2c4a-9b21-4457-a330-eb001edfd30a",
   "projectVersion": 1,
   "AppIdentifier": "com.telerik.Gen09Native",
-  "DisplayName": "Gen09 Native",
+  "DisplayName": "Gen 09 Native",
   "Author": "",
-  "Description": "Gen09 Native",
+  "Description": "Gen 09 Native",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
@@ -23,6 +23,6 @@
   ],
   "AndroidHardwareAcceleration": "false",
   "iOSStatusBarStyle": "Default",
-  "FrameworkVersion": "1.4.3",
+  "FrameworkVersion": "1.1.2",
   "Framework": "NativeScript"
 }
